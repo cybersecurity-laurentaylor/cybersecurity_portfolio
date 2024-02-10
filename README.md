@@ -38,6 +38,8 @@ This Bootstrap template is made by [Position2](https://www.position2.com/) UI de
 
 [Shutter Stock](https://www.shutterstock.com/)
 
+[Pexels](https://www.pexels.com/)
+
 
 # Copyright and License
 
