@@ -1,3 +1,4 @@
+Click to view portfolio: https://cybersecurity-laurentaylor.github.io/cybersecurity_portfolio/
 <!-- # Bootstrap Theme - Design Studio
 
 [![Design Studio Preview](https://position2.github.io/free-bootstrap-theme-ds/images/template/design-studio.jpg)](https://position2.github.io/free-bootstrap-theme-ds/)
